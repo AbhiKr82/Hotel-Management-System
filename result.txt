@@ -1,0 +1,101 @@
+
+HOTEL MANAGEMENT SYSTEM
+1. Book a Room 
+2. View Reservations
+3. Get Room No
+4. Checkout Room
+0 Exit !!
+
+1
+Room Booked [ ]
+================================================================
+Enter First name: Abhimanyu
+Enter Last name: Kumar
+Enter room number: 101
+Enter contact number: 4567890123
+Reservation successful!
+================================================================
+
+HOTEL MANAGEMENT SYSTEM
+1. Book a Room 
+2. View Reservations
+3. Get Room No
+4. Checkout Room
+0 Exit !!
+
+1
+Room Booked [ 101 ]
+================================================================
+Enter First name: Karthik
+Enter Last name: Joshi
+Enter room number: 102
+Enter contact number: 7654321098
+Reservation successful!
+================================================================
+
+HOTEL MANAGEMENT SYSTEM
+1. Book a Room 
+2. View Reservations
+3. Get Room No
+4. Checkout Room
+0 Exit !!
+
+2
+Current Reservations:
++----------------+-----------------+---------------+----------------------+-------------------------+
+| Reservation ID | Guest           | Room Number   | Contact Number      | Reservation Date        |
++----------------+-----------------+---------------+----------------------+-------------------------+
+| 5              | Abhimanyu Kumar | 101           | 4567890123           | 2025-11-19 18:58:56.0   |
+| 6              | Karthik Joshi   | 102           | 7654321098           | 2025-11-19 18:59:24.0   |
++----------------+-----------------+---------------+----------------------+-------------------------+
+
+================================================================
+
+HOTEL MANAGEMENT SYSTEM
+1. Book a Room 
+2. View Reservations
+3. Get Room No
+4. Checkout Room
+0 Exit !!
+
+3
+Enter reservation ID: 2
+Reservation not found for the given ID and guest name.
+================================================================
+
+HOTEL MANAGEMENT SYSTEM
+1. Book a Room 
+2. View Reservations
+3. Get Room No
+4. Checkout Room
+0 Exit !!
+
+3
+Enter reservation ID: 6
+Room number for Reservation ID 6 is 102
+================================================================
+
+HOTEL MANAGEMENT SYSTEM
+1. Book a Room 
+2. View Reservations
+3. Get Room No
+4. Checkout Room
+0 Exit !!
+
+4
+Enter reservation ID to delete: 5
+Reservation deleted successfully!
+================================================================
+
+HOTEL MANAGEMENT SYSTEM
+1. Book a Room 
+2. View Reservations
+3. Get Room No
+4. Checkout Room
+0 Exit !!
+
+0
+Exiting System.....
+ThankYou !!!
+
+Process finished with exit code 0
